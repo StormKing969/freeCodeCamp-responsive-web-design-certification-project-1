@@ -35,11 +35,13 @@
 }
 
 #img-div img {
+  display: block;
   -o-object-fit: contain;
      object-fit: contain;
   width: 90%;
   height: auto;
-  margin-bottom: 1rem;
+  margin: 0 auto 1rem;
+  max-width: 100%;
 }
 
 #tribute-info {
