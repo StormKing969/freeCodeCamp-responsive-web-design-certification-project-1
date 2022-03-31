@@ -13,6 +13,10 @@
     background: rgba(226, 218, 218, 0.904);
 }
 
+#title {
+    margin-bottom: 1rem;
+}
+
 #img-div {
     background: white;
     padding: 1rem;
@@ -23,6 +27,7 @@
         object-fit: contain;
         width: 90%;
         height: auto;
+        margin-bottom: 1rem;
     }
 }
 
