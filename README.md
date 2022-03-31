@@ -1,2 +1,3 @@
-# responsive web design certification project 1
- A Tribute Page
+# Tribute Page
+
+freeCodeCamp - Responsive Web Design certification Project 1
